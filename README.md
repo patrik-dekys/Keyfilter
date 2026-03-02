@@ -1,6 +1,6 @@
 # IZP Projekt 1 – keyfilter
 
-Malý nástroj v jazyku C, ktorý filtruje názvy miest podľa prefixu (reťazca zadaného ako argument programu) a:
+Nástroj, ktorý filtruje názvy miest podľa prefixu (reťazca zadaného ako argument programu) a:
 - ak nájde presne jeden záznam, vypíše `Found: <MESTO>`,
 - ak nájde viac záznamov, vypíše zoznam povolených znakov (`Enable: ...`) na ďalšej pozícii po zadanom prefixe,
 - ak nenájde nič, vypíše `Not found`.
